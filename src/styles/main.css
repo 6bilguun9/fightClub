@@ -1,0 +1,11 @@
+.home-container {
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.photo {
+  max-height: 300px;
+  max-width: 100px;
+}

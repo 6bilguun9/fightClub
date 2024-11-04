@@ -1,0 +1,10 @@
+.navbar-container {
+  font-size: 15px;
+  background-color: #393e46;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  gap: 10px;
+  align-items: center;
+}
